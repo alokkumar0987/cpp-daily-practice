@@ -1,5 +1,6 @@
 #include<iostream>
-using namespace std;        
+using namespace std;  
+// This program finds the fractional part of a number without using the modulus operator      
 int main() {
    float x;
    cout << "Enter a number: ";
